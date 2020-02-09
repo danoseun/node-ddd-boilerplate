@@ -3,7 +3,6 @@ node_modules
 .env
 npm-debug.*
 .DS_Store
-.vscode
 yarn-error.log
 debug.log
 coverage
@@ -12,3 +11,6 @@ postgres-data
 redis-data
 
 package-lock.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
